@@ -4,16 +4,18 @@ En este repositorio encontraras las estructuras de datos que he trabajo. Estas e
 
 El proyecto contiene las siguientes estructuras de datos.
     
-    -Pilas 
+    *Pilas 
     
-    -Colas 
+    *Colas 
     
-    -Lista Simple
+    *Lista Simple
     
-    -Lista Doblemente Enlazadas
+    *Lista Doblemente Enlazadas
     
-    -Arboles binarios
+    *Arboles binarios
     
-    -Diccionarios con aboles binarios.
+    *Diccionarios con aboles binarios.
     
 Las estructuras están en paquetes que contienen las clases necesarias para su funcionamiento, además tiene una clase de prueba para demostrar su funcionamiento. 
+
+__Desarrollado en:__ Eclipse
